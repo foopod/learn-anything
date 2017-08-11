@@ -18,6 +18,7 @@
   "repository": "nikitavoloboev/learn-anything",
   "scripts": {
     "upload": "node scripts/mapsLoader.js",
+    "start": "npm run",
     "upload:single": "node scripts/mapLoader.js"
   },
   "dependencies": {
